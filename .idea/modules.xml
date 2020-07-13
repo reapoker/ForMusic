@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Code-ForMusic.iml" filepath="$PROJECT_DIR$/.idea/modules/Code-ForMusic.iml" group="ForMusic" />
+      <module fileurl="file://$PROJECT_DIR$/ForMusic.iml" filepath="$PROJECT_DIR$/ForMusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ForMusic-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ForMusic-app.iml" group="ForMusic/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
